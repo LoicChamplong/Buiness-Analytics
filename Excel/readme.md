@@ -5,3 +5,4 @@ Excel is a wonderful can allow you to do wonderful things with data. Most of the
 The projects in this section will be related to the field of Business Analytics: finance, marketing, sales, supply chain and demand, etc. 
 
 Despite the analysis, some projects will also contain predictive analytics and will be posted in this section and in the [Predictive Analytics](https://github.com/LoicChamplong/Predictive-Analytics-For-Business) part of my Github account as well. 
+
